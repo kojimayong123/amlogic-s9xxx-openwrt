@@ -66,6 +66,7 @@ rm -rf package/small-package/upx-static
 rm -rf package/small-package/upx
 rm -rf package/small-package/firewall*
 rm -rf package/small-package/opkg
+rm -rf package/small-package/nftables
 # 其他调整
 
 
